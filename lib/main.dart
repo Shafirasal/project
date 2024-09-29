@@ -106,7 +106,7 @@ class LoginForm extends StatelessWidget {
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors
-                      .yellow, // Corrected: Use backgroundColor instead of primary
+                      .blue, // Corrected: Use backgroundColor instead of primary
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(8.0), // Rounded corners
                   ),
